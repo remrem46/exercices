@@ -65,7 +65,7 @@ align-items: center;
    
 .grid-container {
     display: grid;
-    grid-template-columns: 50%;
+    grid-template-columns: 30% 70%;
 }
 .grid img {
     width: 80%;
